@@ -2,15 +2,13 @@
     width: 100%;
     outline: 1px solid aquamarine
 }
-.box{
+.box1{
     width: 200px;
     height: 200px;
-
-}
-.red{
     background: red;
-
 }
-.aquamarine {
+.box2 {
+    width: 200px;
+    height: 200px;
     background: aquamarine;
 }

@@ -1,0 +1,17 @@
+Git
+
+git init - intialise
+git status - tell us the status of the folder if there is any file need to add to git
+git add <file name> - this will add the file to the staged status
+git commit  -m "Intital index.html setup"
+git log - give the list of log 
+git add . - this will add all modified and new files to the staging area
+git push - this will push the local branch to the remote
+
+git branch HTML-1_make_div1_square - this will create a new barnch HTML-1_make_div1_square
+git checkout HTML-1_make_div1_square - this will checkout the branch HTML-1_make_div1_square
+
+
+touch - to create a file
+e.g touch index.html - this will create a file called index.html
+
